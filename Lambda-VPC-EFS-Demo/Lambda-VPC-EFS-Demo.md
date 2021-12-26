@@ -9,7 +9,7 @@ There are a number of key steps in the demo:-
 - Create the `catdownloader` lambda function
 - Setup a `schedule-based` EventBridge rule
 - Verify Output
-- cleanup
+- cleanup.
 
 
 # STAGE 1A - Login to an AWS Account    
